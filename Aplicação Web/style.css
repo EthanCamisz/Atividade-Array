@@ -1,0 +1,33 @@
+body{
+    background-color: #fff;
+
+}
+main{
+    display: flex;
+    padding: 12px;
+    align-items: center;
+
+}
+
+
+article{
+    display: flex;
+    flex-direction: row; 
+}
+
+input{
+
+    border: 1px solid #E4F2E7;
+    background-color: #E4F2E7;
+    border-radius: 2px;
+    height: 30px;
+    width: 250px ;
+}
+button{
+    height: 34px;
+    width:80px ;
+    border-radius: px;
+
+    border: 1px solid #d1e3d5;
+    background-color: #E4F2E7;
+}
